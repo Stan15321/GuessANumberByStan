@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net5.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.PublishSingleFile = 
+build_property.IncludeAllContentForSelfExtract = 
+build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
+build_property.RootNamespace = GuessANumberByUsernam
+build_property.ProjectDir = C:\Users\stani\Desktop\SoftUni\Blog and Programming Fundamentals\Additional_Projects from SoftUni\GuessANumberByStan\GuessANumberByStan\GuessANumberByUsernam\
