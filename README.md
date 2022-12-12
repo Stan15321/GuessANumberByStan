@@ -1,6 +1,8 @@
 # Guess A Number By Stan
 A simple console game "Guess A Number".
+
 In this game, the computer comes up with a randomly selected number between 1 and 100. 
+
 Each time when you enter a number the computer will tell u whether it is lower or higher then the expected number.
 - Ready Project
 
