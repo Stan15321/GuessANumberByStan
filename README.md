@@ -15,4 +15,3 @@ You can play the game directly here:
 
 [<img alt="Play Button" src ="https://user-images.githubusercontent.com/109627707/192613720-776c9452-e8e6-43f8-9681-080897656009.png" />](https://replit.com/@Stan15321/Guess-A-number#Main.cs)
 
-
